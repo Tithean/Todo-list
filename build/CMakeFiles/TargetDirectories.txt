@@ -1,0 +1,15 @@
+D:/class/istad/cpp-final-project/todo-list/build/CMakeFiles/ExcelTableApp.dir
+D:/class/istad/cpp-final-project/todo-list/build/CMakeFiles/INSTALL.dir
+D:/class/istad/cpp-final-project/todo-list/build/CMakeFiles/ALL_BUILD.dir
+D:/class/istad/cpp-final-project/todo-list/build/CMakeFiles/ZERO_CHECK.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-build/CMakeFiles/INSTALL.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-build/CMakeFiles/ALL_BUILD.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-build/source/CMakeFiles/xlnt.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-build/source/CMakeFiles/uninstall.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-build/source/CMakeFiles/INSTALL.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-build/source/CMakeFiles/ALL_BUILD.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-build/source/third-party/libstudxml/CMakeFiles/libstudxml.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-build/source/third-party/libstudxml/CMakeFiles/INSTALL.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-build/source/third-party/libstudxml/CMakeFiles/ALL_BUILD.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-build/CMakeFiles/INSTALL.dir
+D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-build/CMakeFiles/ALL_BUILD.dir

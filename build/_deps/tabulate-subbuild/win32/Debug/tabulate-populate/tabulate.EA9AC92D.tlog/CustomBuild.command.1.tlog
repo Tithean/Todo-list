@@ -1,0 +1,162 @@
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKEFILES\7B103282DC820496174CF9C7513F408E\TABULATE-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-src
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-build
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/tmp
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/Debug/tabulate-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKEFILES\7B103282DC820496174CF9C7513F408E\TABULATE-POPULATE-DOWNLOAD.RULE
+setlocal
+cd D:\class\istad\cpp-final-project\todo-list\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/tmp/tabulate-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/Debug/tabulate-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKEFILES\7B103282DC820496174CF9C7513F408E\TABULATE-POPULATE-UPDATE.RULE
+setlocal
+cd D:\class\istad\cpp-final-project\todo-list\build\_deps\tabulate-src
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/tmp/tabulate-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKEFILES\7B103282DC820496174CF9C7513F408E\TABULATE-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/Debug/tabulate-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKEFILES\7B103282DC820496174CF9C7513F408E\TABULATE-POPULATE-CONFIGURE.RULE
+setlocal
+cd D:\class\istad\cpp-final-project\todo-list\build\_deps\tabulate-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/Debug/tabulate-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKEFILES\7B103282DC820496174CF9C7513F408E\TABULATE-POPULATE-BUILD.RULE
+setlocal
+cd D:\class\istad\cpp-final-project\todo-list\build\_deps\tabulate-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/Debug/tabulate-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKEFILES\7B103282DC820496174CF9C7513F408E\TABULATE-POPULATE-INSTALL.RULE
+setlocal
+cd D:\class\istad\cpp-final-project\todo-list\build\_deps\tabulate-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/Debug/tabulate-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKEFILES\7B103282DC820496174CF9C7513F408E\TABULATE-POPULATE-TEST.RULE
+setlocal
+cd D:\class\istad\cpp-final-project\todo-list\build\_deps\tabulate-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/Debug/tabulate-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKEFILES\84C2B429FB9A201539FE58CFE361E5E9\TABULATE-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/Debug/tabulate-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/tabulate-populate-prefix/src/tabulate-populate-stamp/Debug/tabulate-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKEFILES\36CBD9A87F7E6AEBFFAE3AD9F51D1C2E\TABULATE-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\TABULATE-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild -BD:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild --check-stamp-file D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

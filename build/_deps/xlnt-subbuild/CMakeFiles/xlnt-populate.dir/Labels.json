@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/xlnt-populate"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/af2d10f05aeb45ff6948bd9d8cebf416/xlnt-populate.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/9e9387ba603c7ac18a755f669cd5d090/xlnt-populate-complete.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/06c5651a3b01b30e249388bbe3791ca2/xlnt-populate-build.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/06c5651a3b01b30e249388bbe3791ca2/xlnt-populate-configure.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/06c5651a3b01b30e249388bbe3791ca2/xlnt-populate-download.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/06c5651a3b01b30e249388bbe3791ca2/xlnt-populate-install.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/06c5651a3b01b30e249388bbe3791ca2/xlnt-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/06c5651a3b01b30e249388bbe3791ca2/xlnt-populate-patch.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/06c5651a3b01b30e249388bbe3791ca2/xlnt-populate-test.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/06c5651a3b01b30e249388bbe3791ca2/xlnt-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"xlnt-populate"
+		],
+		"name" : "xlnt-populate"
+	}
+}

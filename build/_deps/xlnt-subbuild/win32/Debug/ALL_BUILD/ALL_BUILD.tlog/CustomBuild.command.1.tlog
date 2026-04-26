@@ -1,0 +1,10 @@
+^D:\CLASS\ISTAD\CPP-FINAL-PROJECT\TODO-LIST\BUILD\_DEPS\XLNT-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild -BD:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild --check-stamp-file D:/class/istad/cpp-final-project/todo-list/build/_deps/xlnt-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

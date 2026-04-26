@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/tabulate-populate"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/36cbd9a87f7e6aebffae3ad9f51d1c2e/tabulate-populate.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/84c2b429fb9a201539fe58cfe361e5e9/tabulate-populate-complete.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/7b103282dc820496174cf9c7513f408e/tabulate-populate-build.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/7b103282dc820496174cf9c7513f408e/tabulate-populate-configure.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/7b103282dc820496174cf9c7513f408e/tabulate-populate-download.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/7b103282dc820496174cf9c7513f408e/tabulate-populate-install.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/7b103282dc820496174cf9c7513f408e/tabulate-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/7b103282dc820496174cf9c7513f408e/tabulate-populate-patch.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/7b103282dc820496174cf9c7513f408e/tabulate-populate-test.rule"
+		},
+		{
+			"file" : "D:/class/istad/cpp-final-project/todo-list/build/_deps/tabulate-subbuild/CMakeFiles/7b103282dc820496174cf9c7513f408e/tabulate-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tabulate-populate"
+		],
+		"name" : "tabulate-populate"
+	}
+}

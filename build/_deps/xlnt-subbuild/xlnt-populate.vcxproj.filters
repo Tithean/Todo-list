@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\06c5651a3b01b30e249388bbe3791ca2\xlnt-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\06c5651a3b01b30e249388bbe3791ca2\xlnt-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\06c5651a3b01b30e249388bbe3791ca2\xlnt-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\06c5651a3b01b30e249388bbe3791ca2\xlnt-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\06c5651a3b01b30e249388bbe3791ca2\xlnt-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\06c5651a3b01b30e249388bbe3791ca2\xlnt-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\06c5651a3b01b30e249388bbe3791ca2\xlnt-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\06c5651a3b01b30e249388bbe3791ca2\xlnt-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\9e9387ba603c7ac18a755f669cd5d090\xlnt-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\af2d10f05aeb45ff6948bd9d8cebf416\xlnt-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\class\istad\cpp-final-project\todo-list\build\_deps\xlnt-subbuild\CMakeFiles\xlnt-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B287AD7C-4004-30C8-A268-76A047016F9A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
