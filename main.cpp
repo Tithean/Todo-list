@@ -1,6 +1,8 @@
 #include<iostream> 
 #include <tabulate/table.hpp>
 #include <xlnt/xlnt.hpp>
+#include <vector>
+#include <string>
 using namespace std;
 using namespace tabulate;
 
