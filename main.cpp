@@ -82,7 +82,7 @@ vector<Student> readStudentsFromExcel(const string& filename){
      try{
          wb.load(filename); 
      }catch(...){
-         cout<<"Excel file cannot be open for reading!! ❌"<<endl; 
+         cout<<"Excel file cannot be open for reading!!"<<endl; 
          return students; 
      }
    
@@ -103,6 +103,11 @@ vector<Student> readStudentsFromExcel(const string& filename){
     return students; 
 }
 
+void pressEnterToContinue(){
+    cout<<"Press Enter to continue... "<<endl;
+    cin.ignore(); 
+    cin.get(); 
+}
 
 int main(){
     system("cls"); 
@@ -123,6 +128,8 @@ int main(){
         printMenu(programMenu); 
         cout<<"Choose you option : "; 
         cin>>option; 
+        pressEnterToContinue(); 
+        system("cls"); 
         switch(option){
             // add member
             case 1: 
@@ -155,7 +162,10 @@ int main(){
             break; 
             // exit 
             case 6: 
-            cout<<"Exiting the program... "<<endl;
+            {
+
+            }
+            break;
         }
     }while(option!=6); 
     return 0 ; 
